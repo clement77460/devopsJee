@@ -13,7 +13,7 @@
         <div id="page-wrapper">
             <div class="row">
                 <div class="col-lg-9">
-                    <h1 class="page-header">Liste des Employes</h1>
+                    <h1 class="page-header">Liste des Employees</h1>
                 </div>
                 <!-- /.col-lg-12 -->
                 <jsp:include page="disconnectForm.jsp"/>
